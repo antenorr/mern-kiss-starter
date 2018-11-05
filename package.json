@@ -4,6 +4,7 @@
   "description": "This will serve as a MERN stack initial setup boiler plate",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
