@@ -8,7 +8,7 @@ class App extends Component {
     nasaData: null
    }
 
-  // Fetch passwords after first mount
+  // Fetch products AKA intitial connection after first mount
   componentDidMount() {
     this.getProducts();
   }
